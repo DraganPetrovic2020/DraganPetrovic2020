@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraganPetrovic2020&show_icons=true&theme=transparent)
+![Top Langs](https://git-stats-plum.vercel.app/api/top-langs?username=DraganPetrovic2020&show_icons=true&theme=transparent)
 
 ![Statscard](https://git-stats-plum.vercel.app/api?username=DraganPetrovic2020&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
 
